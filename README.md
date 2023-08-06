@@ -54,3 +54,5 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)
 
 ![CreedTech snake gif](https://github.com/CreedTech/CreedTech/blob/output/github-contribution-grid-snake.svg)
+
+<a href="https://bmc.link/lazyszn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
