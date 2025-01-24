@@ -42,6 +42,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <img src="(https://spotify-github-profile.vercel.app/api/view?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" width="700">
