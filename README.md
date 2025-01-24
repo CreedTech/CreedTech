@@ -49,7 +49,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Lazy Programmer" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CreedTech&theme=jolly" width="700">
-[![GitHub Streak](https://streak-stats.demolab.com?user=creedtech&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)
