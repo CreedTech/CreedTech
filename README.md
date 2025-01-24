@@ -43,7 +43,8 @@
 </div>
 ---
 
-[![spotify-github-profile]([https:/spotify-github-profile.kittinanx.com/api/view?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)))
+[![spotify-github-profile]([https:/spotify-github-profile.kittinanx.com/api/view?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true))
+
 <img src="([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]])" width="700">
 
 
