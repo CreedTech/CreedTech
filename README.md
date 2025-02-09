@@ -48,7 +48,7 @@
 <img src="([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]])" width="700">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=Javascript-dark&layout=compact" alt="GitHub Stats for Lazy Programmer" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=javascript-dark&layout=compact" alt="GitHub Stats for Lazy Programmer" width="600">
 
 
 
