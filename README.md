@@ -64,7 +64,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://github.com/CreedTech/CreedTech/blob/master/github-wrapped.png" width="600" height="600"/>
+<!--   <img src="https://github.com/CreedTech/CreedTech/blob/master/github-wrapped.png" width="600" height="600"/> -->
 </div>
 
 
