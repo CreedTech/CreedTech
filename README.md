@@ -27,16 +27,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS"  alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 ---
 
@@ -46,9 +46,19 @@
   <img alt="snk" src="https://github.com/CreedTech/CreedTech/blob/output/github-snake.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CreedTech/CreedTech/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CreedTech/CreedTech/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution grid" src="https://raw.githubusercontent.com/CreedTech/CreedTech/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 [![spotify-github-profile]([https:/spotify-github-profile.kittinanx.com/api/view?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true))
 
 <img src="([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]])" width="700">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rtlskolo7kdb4jcxzxnrvwpu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/)
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&layout=compact" alt="GitHub Stats for Lazy Programmer" width="500">
@@ -56,12 +66,13 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=creedtech&theme=highcontrast)](https://git.io/streak-stats) 
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=creedtech&theme=javascript-dark)](https://git.io/streak-stats)
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=CreedTech&theme=radical)
 
 ![CreedTech snake gif](https://github.com/CreedTech/CreedTech/blob/output/github-contribution-grid-snake.svg)
+![CreedTech snake gif](https://raw.githubusercontent.com/CreedTech/CreedTech/output/github-contribution-grid-snake.svg)
 
 <a href="https://bmc.link/lazyszn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
