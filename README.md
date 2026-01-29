@@ -68,9 +68,10 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&count_private=true&theme=highcontrast"/>
+<img src="https://github-readme-stats.vercel.app/api?username=CreedTech&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&layout=compact" alt="GitHub Stats for CreedTech" width="500"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=creedtech&theme=javascript-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=CreedTech&theme=javascript-dark)](https://git.io/streak-stats)
+
 
 ---
 
