@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/ayodele-ayoola-78a5341b2">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/techy_ayo">
+    <a href="https://twitter.com/lazy_programma">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
   </div>
@@ -32,6 +32,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/next-original-wordmark.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/>
