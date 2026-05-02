@@ -32,7 +32,7 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/nextjs-original-wordmark.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/nextjs-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40"/>
