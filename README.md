@@ -32,7 +32,7 @@
 </h3>
 
 <p>
-  Currently working with React, Next.js, TypeScript, Flutter, Node.js, MongoDB, AWS, Firebase, and modern frontend architecture.
+  Currently working with React, Next.js, TypeScript, Flutter, React Native, Node.js, PostgreSQL, MongoDB, Cloudflare, AWS, Firebase, and modern frontend architecture.
 </p>
 
 ---
