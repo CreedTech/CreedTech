@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/CreedTech/CreedTech/master/C55AB7BC-A036-4D71-B66C-05132D25993F.jpeg" width="600"/>
 </div>
 <h3>
-  Software Engineer focused on building scalable web and mobile products across PropTech, FinTech, and marketplace platforms.
+  Software Engineer focused on building scalable products and systems.
 </h3>
 
 <p>
